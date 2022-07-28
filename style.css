@@ -26,3 +26,9 @@
     color: #848383;
     font-size: 15px;
 }
+.company-img a{
+    margin-left: 35px;
+}
+.company-img a img{
+    width: 115px;
+}
