@@ -32,3 +32,11 @@
 .company-img a img{
     width: 115px;
 }
+.student-titel{
+    font-size: 10px;
+    color: #a7a6a6;
+}
+.modal1{
+    padding: 30px;
+    margin-top: 1rem;
+}
